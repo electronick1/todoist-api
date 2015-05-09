@@ -73,7 +73,7 @@ in_history | If set to `1`, the task is marked completed.
 collapsed | If set to `1` the task's sub tasks are collapsed. Otherwise they aren't.
 indent | The indent of the item (a number between `1` and `4`, where `1` is top-level).
 priority | The priority of the task (a number between `1` and `4`, `4` for very urgent and `1` for natural).
-indent | The indent of the item (a number between `1` and `4`, where `1` is top-level).
+checked | If set to `1`, the task is marked completed with all subtasks.
 item_order | The order of the task.
 children | The tasks child tasks (a list of task ids such as `[13134,232345]`).
 labels | The tasks labels (a list of label ids such as `[2324,2525]`).
